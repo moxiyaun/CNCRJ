@@ -2,10 +2,10 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOXo1dTB5VjdtZnpCRTNaZkwzdDFlbnBZSVZzc1NWT0lpMUlTT2oyUmlpVEVHRWdKNWxsVTFiLzUyVzZCVGZuWjdJNnNZS2FhUWNLbHBPMG9MQURCL1BjcjVSK2hKV3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTc3MzU2CWZpbGU6TWFrZXJIdWJfMC4yLjBfeDY0LXNldHVwLmV4ZQpNWDI2NlJDVTdxN1Zyc2o2TnB6SVFSOWNMeVl0Wk56a0JoSVFyd0NWRDdLYWtjdVo0bmhLV2EwbGJjV0hETFZxcDlLcmpwbHdKblViNDU1eHFXTTVCdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/makerhub/makerhub-host/main/updater/MakerHub_0.2.0_x64-setup.exe"
+                                             "url":  "https://raw.githubusercontent.com/moxiyaun/CNCRJ/main/updater/MakerHub_0.2.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-08-01T17:43:03Z",
+    "pub_date":  "2026-08-01T18:07:48Z",
     "version":  "0.2.0",
-    "notes":  "MakerHub v0.2.0 - 首个支持自动更新的版本`n`n新增功能:`n- 启动时自动检查更新`n- 设置页面手动检查更新`n- 一键下载安装并重启`n- 签名验证保证更新包安全"
+    "notes":  "MakerHub v0.2.0 - 首个支持自动更新的版本\n\n新增功能:\n- 启动时自动检查更新\n- 设置页面手动检查更新\n- 一键下载安装并重启\n- 签名验证保证更新包安全"
 }
